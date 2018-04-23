@@ -1,0 +1,2 @@
+run captcha_Solver_Gui.m
+donot forget to train Nerual Network first
